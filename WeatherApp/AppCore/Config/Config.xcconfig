@@ -1,0 +1,10 @@
+//
+//  Config.xcconfig
+//  WeatherApp
+//
+//  Created by Борис Киселев on 15.04.2026.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://developer.apple.com/documentation/xcode/adding-a-build-configuration-file-to-your-project
+WEATHER_API_KEY = b8d9cd3ee1214aa380970609261504
